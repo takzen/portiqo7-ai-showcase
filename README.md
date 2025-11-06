@@ -1,7 +1,10 @@
 # InvestIQ — The AI-Powered Portfolio Intelligence Platform
 
+<!-- BADGE STATUSU PROJEKTU - Opcjonalnie możesz użyć np. shields.io, ale to jest prosta wersja tekstowa -->
+[![Project Status](https://img.shields.io/badge/Status-Phase%202%3A%20Core%20Expansion-blue)](./#project-roadmap)
+
 **InvestIQ** is a next-generation platform designed to bring clarity and intelligence to portfolio management.
-It combines financial analytics, AI-driven insights, and seamless automation to help investors and family offices make better decisions.
+It combines financial analytics, AI-driven insights, and seamless automation to help **individual investors and professional asset managers** make better decisions.
 
 ---
 
@@ -27,6 +30,50 @@ It focuses on:
 | AI         | Google Gemini API                   |
 | Deployment | Vercel + Cloudflare                 |
 | CI/CD      | GitHub Actions                      |
+
+---
+
+## 🗺️ Project Roadmap
+
+This roadmap outlines the major phases and features planned for InvestIQ.
+
+### **Phase 1: MVP - "Personal Portfolio Monitor"**
+*Goal: User can manually input their portfolio and view its current value.*
+*Status: Completed!* ✅
+
+*   Step 0: Tech Foundations ✅
+*   Step 1: Authentication (Clerk Integration) ✅
+*   Step 2: Backend - Portfolio API Endpoints ✅
+*   Step 3: Database - Cloudflare D1 Schema & Connection ✅
+*   Step 4: Secure Backend (Clerk Middleware for Auth) ✅
+*   Step 5: Frontend - Portfolio UI (TanStack Query Integration) ✅
+
+### **Phase 2: Core Functionality Expansion (Current Phase)**
+*Focus: Adding key visualization, data, and user management features.*
+
+*   Step 6: Data Visualizations and Charts ✅
+*   Step 7: Financial News Aggregation ✅
+*   Step 8: Transaction Import (from File) ⏳
+*   Step 9: Watchlists Implementation
+
+### **Phase 3: AI-Powered Insights**
+*Focus: Leveraging AI to deliver intelligent, unique value.*
+
+*   Step 10: Document Summarization (AI)
+*   Step 11: Market Sentiment Analysis (AI)
+*   Step 12: Interactive Portfolio Assistant (AI)
+
+### **Phase 4: Maturity and Monetization**
+*Focus: Preparing the platform for commercial use and ensuring stability.*
+
+*   Step 13: User and Team Management
+*   Step 14: Payment Integration (Subscriptions)
+*   Step 15: Advanced Reporting (PDF Export)
+*   Step 16: Technical Cleanup & Security (Secrets Management)
+
+#### **Legend**
+*   **✅ Completed**
+*   **⏳ In Progress**
 
 ---
 
@@ -61,8 +108,7 @@ Focused on building tools that help users make smarter investment decisions.
 
 ## 📬 Contact
 
-📧 **[contact@investiq-ai.com](mailto:contact@investiq-ai.com)**
-🌐 [investiq-ai.com](https://investiq-ai.com)
+📧 **[takzen.app@gmail.com](mailto:takzen.app@gmail.com)**
 
 ---
 
