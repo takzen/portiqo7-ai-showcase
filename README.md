@@ -1,7 +1,6 @@
 # InvestIQ — The AI-Powered Portfolio Intelligence Platform
 
-<!-- BADGE STATUSU PROJEKTU - Opcjonalnie możesz użyć np. shields.io, ale to jest prosta wersja tekstowa -->
-[![Project Status](https://img.shields.io/badge/Status-Phase%202%3A%20Core%20Expansion-blue)](./#project-roadmap)
+[![Project Status](https://img.shields.io/badge/Status-Phase%203%3A%20AI%20Insights-yellowgreen)](./#project-roadmap)
 
 **InvestIQ** is a next-generation platform designed to bring clarity and intelligence to portfolio management.
 It combines financial analytics, AI-driven insights, and seamless automation to help **individual investors and professional asset managers** make better decisions.
@@ -48,15 +47,16 @@ This roadmap outlines the major phases and features planned for InvestIQ.
 *   Step 4: Secure Backend (Clerk Middleware for Auth) ✅
 *   Step 5: Frontend - Portfolio UI (TanStack Query Integration) ✅
 
-### **Phase 2: Core Functionality Expansion (Current Phase)**
+### **Phase 2: Core Functionality Expansion**
 *Focus: Adding key visualization, data, and user management features.*
+*Status: Completed!* ✅
 
 *   Step 6: Data Visualizations and Charts ✅
 *   Step 7: Financial News Aggregation ✅
 *   Step 8: Transaction Import (from File) ✅
 *   Step 9: Watchlists Implementation ✅
 
-### **Phase 3: AI-Powered Insights**
+### **Phase 3: AI-Powered Insights (Current Phase)**
 *Focus: Leveraging AI to deliver intelligent, unique value.*
 
 *   Step 10: Document Summarization (AI) ⏳
@@ -99,6 +99,17 @@ If you’re a **recruiter**, **collaborator**, or **potential partner**, feel fr
 
 ---
 
+## 📸 Product Screenshots
+
+Here are a few glimpses into the InvestIQ user interface and core features.
+
+| Portfolio Dashboard | Market News Aggregation |
+| :---: | :---: |
+| ![Portfolio Details View](images/1.png) | ![Latest Financial News Feed](images/2.png) |
+| *Details and performance metrics of a selected portfolio.* | *Aggregated feed of the latest relevant market news.* |
+
+---
+
 ## 👤 About the Creator
 
 InvestIQ is being developed by a team passionate about combining **AI**, **finance**, and **clean engineering**.
@@ -113,11 +124,3 @@ Focused on building tools that help users make smarter investment decisions.
 ---
 
 © 2025 InvestIQ. All rights reserved.
-
-## Page
-
-![Dashboard Screenshot](images/1.png)
-*A preview of the Page Portfolio Details*
-
-![Dashboard Screenshot](images/2.png)
-*A preview of the latest news*
