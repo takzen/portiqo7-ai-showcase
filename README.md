@@ -53,13 +53,13 @@ This roadmap outlines the major phases and features planned for InvestIQ.
 
 *   Step 6: Data Visualizations and Charts ✅
 *   Step 7: Financial News Aggregation ✅
-*   Step 8: Transaction Import (from File) ⏳
-*   Step 9: Watchlists Implementation
+*   Step 8: Transaction Import (from File) ✅
+*   Step 9: Watchlists Implementation ✅
 
 ### **Phase 3: AI-Powered Insights**
 *Focus: Leveraging AI to deliver intelligent, unique value.*
 
-*   Step 10: Document Summarization (AI)
+*   Step 10: Document Summarization (AI) ⏳
 *   Step 11: Market Sentiment Analysis (AI)
 *   Step 12: Interactive Portfolio Assistant (AI)
 
@@ -113,3 +113,11 @@ Focused on building tools that help users make smarter investment decisions.
 ---
 
 © 2025 InvestIQ. All rights reserved.
+
+## Page
+
+![Dashboard Screenshot](images/1.png)
+*A preview of the Page Portfolio Details*
+
+![Dashboard Screenshot](images/2.png)
+*A preview of the latest news*
