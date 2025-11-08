@@ -110,13 +110,13 @@ Here are a few glimpses into the InvestIQ user interface and core features.
 
 |               Home Page               |              Portfolios Dashboard              |             Holdings & Charts              |
 | :-----------------------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  ![Welcome screen](images/home.png)   | ![Portfolios Overview](images/portfolios2.png) | ![Portfolio Details](images/holdings2.png) |
+|  ![Welcome screen](images/home.webp)  | ![Portfolios Overview](images/portfolios.webp) | ![Portfolio Details](images/holdings.webp) |
 | _Welcome screen and main navigation._ |       _Overview of all user portfolios._       |     _Details and performance metrics._     |
 
-|                       News Feed                       |                  Watchlist                   |                   AI Document Summarizer                    |
-| :---------------------------------------------------: | :------------------------------------------: | :---------------------------------------------------------: |
-|           ![Latest News](images/news2.png)            |   ![Tracked Assets](images/watchlist2.png)   | ![AI-Powered Summarization](images/document_summarizer.png) |
-| _Aggregated feed of the latest relevant market news._ | _Track assets outside your main portfolios._ |        _Leveraging AI for quick document insights._         |
+|            News Feed & Sentiment Analysis             |        Watchlist & Sentiment Analysis        |                    AI Document Summarizer                    |
+| :---------------------------------------------------: | :------------------------------------------: | :----------------------------------------------------------: |
+|           ![Latest News](images/news.webp)            |   ![Tracked Assets](images/watchlist.webp)   | ![AI-Powered Summarization](images/document_summarizer.webp) |
+| _Aggregated feed of the latest relevant market news._ | _Track assets outside your main portfolios._ |         _Leveraging AI for quick document insights._         |
 
 ---
 
