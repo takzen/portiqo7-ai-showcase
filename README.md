@@ -1,6 +1,6 @@
 # InvestIQ — The AI-Powered Portfolio Intelligence Platform
 
-[![Project Status](https://img.shields.io/badge/Status-Phase%203%3A%20AI%20Insights-yellowgreen)](./#project-roadmap)
+[![Project Status](https://img.shields.io/badge/Status-Phase%203.5%3A%20Smart%20Analytics-orange)](./#project-roadmap)
 
 **InvestIQ** is a next-generation platform designed to bring clarity and intelligence to portfolio management.
 It combines financial analytics, AI-driven insights, and seamless automation to help **individual investors and professional asset managers** make better decisions.
@@ -58,27 +58,63 @@ _Status: Completed!_ ✅
 - Step 8: Transaction Import (from File) ✅
 - Step 9: Watchlists Implementation ✅
 
-### **Phase 3: AI-Powered Insights (Current Phase)**
+### **Phase 3: AI-Powered Insights**
 
 _Focus: Leveraging AI to deliver intelligent, unique value._
+_Status: Completed!_ ✅
 
 - Step 10: Document Summarization (AI) ✅
 - Step 11: Market Sentiment Analysis (AI) ✅
-- Step 12: Interactive Portfolio Assistant (AI) ⏳
+- Step 12: Interactive Portfolio Assistant (AI) ✅
+
+### **Phase 3.5: Smart Portfolio Analytics (Current Phase)**
+
+_Focus: Deeper financial analysis and risk/performance metrics._
+
+- Step 13: Asset Correlation Analysis ⏳
+  - Correlation matrix between tickers
+  - Heat map visualization
+  - Detection of strong relationships
+- Step 14: Portfolio Risk Metrics
+  - Sharpe Ratio (return/risk)
+  - Beta (volatility vs market)
+  - Value at Risk (VaR 95%)
+  - Diversification Score
+- Step 15: Sector Exposure Analysis
+  - Grouping by sectors
+  - Allocation % chart
+  - Alerts for over-concentration
+  - Diversification recommendations
+- Step 16: Technical Indicators
+  - Moving Averages (SMA, EMA)
+  - RSI (Relative Strength Index)
+  - Support/Resistance levels
+  - Trend indicators
 
 ### **Phase 4: Maturity and Monetization**
 
 _Focus: Preparing the platform for commercial use and ensuring stability._
 
-- Step 13: User and Team Management
-- Step 14: Payment Integration (Subscriptions)
-- Step 15: Advanced Reporting (PDF Export)
-- Step 16: Technical Cleanup & Security (Secrets Management)
+- Step 17: User and Team Management
+- Step 18: Payment Integration (Subscriptions)
+- Step 19: Advanced Reporting (PDF Export)
+- Step 20: Technical Cleanup & Security
+  - _Includes: Moving hardcoded keys to a secure secrets management system._
+
+### **🚀 Phase 5: Advanced ML (Future)**
+
+_Focus: State-of-the-art machine learning models for market prediction and optimization._
+
+- ⬜ LSTM Price Predictions
+- ⬜ Anomaly Detection
+- ⬜ Portfolio Optimization (MPT)
+- ⬜ Advanced Graph Models (Sheaf-GNN)
 
 #### **Legend**
 
 - **✅ Completed**
 - **⏳ In Progress**
+- **⬜ Planned**
 
 ---
 
@@ -117,6 +153,11 @@ Here are a few glimpses into the InvestIQ user interface and core features.
 | :---------------------------------------------------: | :------------------------------------------: | :----------------------------------------------------------: |
 |           ![Latest News](images/news.webp)            |   ![Tracked Assets](images/watchlist.webp)   | ![AI-Powered Summarization](images/document_summarizer.webp) |
 | _Aggregated feed of the latest relevant market news._ | _Track assets outside your main portfolios._ |         _Leveraging AI for quick document insights._         |
+
+|        Interactive Portfolio Assistant         |
+| :--------------------------------------------: |
+|      ![AI chat window](images/chat.webp)       |
+| _AI-powered chat for quick portfolio queries._ |
 
 ---
 
