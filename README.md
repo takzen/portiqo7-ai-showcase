@@ -71,16 +71,16 @@ _Status: Completed!_ ✅
 
 _Focus: Deeper financial analysis and risk/performance metrics._
 
-- Step 13: Asset Correlation Analysis ⏳
+- Step 13: Asset Correlation Analysis ✅
   - Correlation matrix between tickers
   - Heat map visualization
   - Detection of strong relationships
-- Step 14: Portfolio Risk Metrics
+- Step 14: Portfolio Risk Metrics ✅
   - Sharpe Ratio (return/risk)
   - Beta (volatility vs market)
   - Value at Risk (VaR 95%)
   - Diversification Score
-- Step 15: Sector Exposure Analysis
+- Step 15: Sector Exposure Analysis ⏳
   - Grouping by sectors
   - Allocation % chart
   - Alerts for over-concentration
