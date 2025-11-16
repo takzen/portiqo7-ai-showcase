@@ -91,8 +91,8 @@ _Status: Completed!_ ✅
 
 _Focus: Preparing the platform for commercial use and ensuring stability._
 
-- Step 17: User and Team Management ⏳
-- Step 18: Payment Integration (Subscriptions)
+- Step 17: User and Team Management ✅
+- Step 18: Payment Integration (Subscriptions) ⏳
 - Step 19: Advanced Reporting (PDF Export)
 - Step 20: Technical Cleanup & Security
   - _Includes: Moving hardcoded keys to a secure secrets management system._
