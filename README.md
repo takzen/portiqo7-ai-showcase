@@ -558,21 +558,21 @@ We believe in building in public. Here's what's next:
 - ✅ Production deployment with full monitoring
 - ✅ GDPR compliance implementation
 
-**Q2 2025/03** (Current)
+**Q2 2026/03** (Current)
 
 - ⏳ Phase 5: Advanced ML models (LSTM predictions, anomaly detection)
 - ⏳ Technical indicators dashboard
 - ⏳ Mobile app (React Native)
 - ⏳ Public API beta launch
 
-**Q3 2025/06**
+**Q3 2026/04**
 
 - ⬜ Portfolio optimization (Modern Portfolio Theory)
 - ⬜ Graph Neural Networks (Sheaf-GNN)
 - ⬜ Social features (portfolio sharing, leaderboards)
 - ⬜ Integration marketplace (brokers, tax software)
 
-**Q4 2025**
+**Q4 2026**
 
 - ⬜ Enterprise SSO (SAML, LDAP)
 - ⬜ White-label platform
