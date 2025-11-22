@@ -1,14 +1,14 @@
 # InvestIQ – The AI-Powered Portfolio Intelligence Platform
 
-[![Project Status](https://img.shields.io/badge/Status-Phase%205%3A%20Advanced%20ML-brightgreen)](./#project-roadmap)
-[![Tech Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Cloudflare%20%7C%20AI-blue)](./#tech-highlights)
-[![Frontend](https://img.shields.io/badge/Frontend-Next.js%2016%20%7C%20TypeScript%20%7C%20Tailwind-black?logo=next.js)](./#tech-highlights)
-[![Backend](https://img.shields.io/badge/Backend-Cloudflare%20Workers%20%7C%20Hono-orange?logo=cloudflare)](./#tech-highlights)
-[![Database](https://img.shields.io/badge/Database-D1%20SQLite%20%7C%20KV%20%7C%20Redis-green?logo=sqlite)](./#tech-highlights)
-[![AI](https://img.shields.io/badge/AI-Google%20Gemini%20API-blue?logo=google)](./#tech-highlights)
-[![Auth](https://img.shields.io/badge/Auth-Clerk-purple?logo=clerk)](./#tech-highlights)
-[![Payments](https://img.shields.io/badge/Payments-Stripe-blueviolet?logo=stripe)](./#tech-highlights)
-[![Deployment](https://img.shields.io/badge/Deploy-Vercel%20%7C%20Cloudflare-black?logo=vercel)](./#tech-highlights)
+[![Project Status](https://img.shields.io/badge/Status-Phase%205%3A%20Advanced%20ML-2EA44F)](./#project-roadmap)
+[![Tech Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Cloudflare%20%7C%20AI-3B82F6)](./#tech-highlights)
+[![Frontend](https://img.shields.io/badge/Frontend-Next.js%2016%20%7C%20TypeScript%20%7C%20Tailwind-06B6D4?logo=next.js&logoColor=white)](./#tech-highlights)
+[![Backend](https://img.shields.io/badge/Backend-Cloudflare%20Workers%20%7C%20Hono-F38020?logo=cloudflare&logoColor=white)](./#tech-highlights)
+[![Database](https://img.shields.io/badge/Database-D1%20SQLite%20%7C%20KV%20%7C%20Redis-DC382D?logo=sqlite&logoColor=white)](./#tech-highlights)
+[![AI](https://img.shields.io/badge/AI-Google%20Gemini%20API-4285F4?logo=google&logoColor=white)](./#tech-highlights)
+[![Auth](https://img.shields.io/badge/Auth-Clerk-6C47FF?logo=clerk&logoColor=white)](./#tech-highlights)
+[![Payments](https://img.shields.io/badge/Payments-Stripe-635BFF?logo=stripe&logoColor=white)](./#tech-highlights)
+[![Deployment](https://img.shields.io/badge/Deploy-Vercel%20%7C%20Cloudflare-ECECEC?logo=vercel&logoColor=black&labelColor=ECECEC&color=F38020)](./#tech-highlights)
 
 **InvestIQ** is a next-generation platform designed to bring clarity and intelligence to portfolio management. It combines financial analytics, AI-driven insights, and seamless automation to help **individual investors and professional asset managers** make better decisions.
 
