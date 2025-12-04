@@ -1,4 +1,4 @@
-# InvestIQ – The AI-Powered Portfolio Intelligence Platform
+# Portiqo7 – The AI-Powered Portfolio Intelligence Platform
 
 [![Project Status](https://img.shields.io/badge/Status-Phase%205%3A%20Advanced%20ML-2EA44F)](./#project-roadmap)
 [![Tech Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Cloudflare%20%7C%20AI-3B82F6)](./#tech-highlights)
@@ -10,7 +10,12 @@
 [![Payments](https://img.shields.io/badge/Payments-Stripe-635BFF?logo=stripe&logoColor=white)](./#tech-highlights)
 [![Deployment](https://img.shields.io/badge/Deploy-Vercel%20%7C%20Cloudflare-ECECEC?logo=vercel&logoColor=black&labelColor=ECECEC&color=F38020)](./#tech-highlights)
 
-**InvestIQ** is a next-generation platform designed to bring clarity and intelligence to portfolio management. It combines financial analytics, AI-driven insights, and seamless automation to help **individual investors and professional asset managers** make better decisions.
+**Portiqo7** is a next-generation platform designed to bring clarity and intelligence to portfolio management. It combines financial analytics, AI-driven insights, and seamless automation to help **individual investors and professional asset managers** make better decisions.
+
+## 🚀 Live Demo
+
+Check out the live application running on production:
+👉 **[Portiqo7 - Launch App](https://portiqo7.pl)**
 
 ---
 
@@ -73,7 +78,7 @@
 
 ## 🏗️ Architecture Overview
 
-InvestIQ is built on a modern, serverless architecture designed for scalability and performance:
+Portiqo7 is built on a modern, serverless architecture designed for scalability and performance:
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
@@ -270,43 +275,40 @@ _Focus: State-of-the-art machine learning models for market prediction and optim
 
 ### Free Plan
 
-- 2 portfolios
+- 1 User (Solo)
+- 1 Portfolio
 - 20 holdings per portfolio
-- 2 watchlists
-- 10 AI requests/month
+- 5 AI requests/month
 - 30 days historical data
 - Basic analytics
 
-### Pro Plan - $19.99/month
+### Pro Plan - 149 PLN/month
 
-- 10 portfolios
-- 200 holdings per portfolio
-- 10 watchlists
-- 500 AI requests/month
+- 1 User (Solo)
+- Unlimited portfolios
+- Unlimited holdings
+- 100 AI requests/month
 - 5 years historical data
 - **Advanced analytics & risk metrics**
-- **5 team members**
-- **50 PDF reports/month**
+- **PDF Reports (Personal)**
 - CSV export
 
-### Enterprise Plan - $99.99/month
+### Enterprise Plan - 549 PLN/month
 
+- **5 team members**
 - Unlimited portfolios & holdings
-- Unlimited watchlists
 - Unlimited AI requests
 - Full historical data
 - **Advanced analytics & risk metrics**
-- **50 team members**
-- **Unlimited PDF reports**
-- **API access**
-- **White-label options**
+- **Unlimited PDF reports (Client-ready)**
+- **Role-Based Access Control (RBAC)**
 - **Priority support**
 
 ---
 
 ## 🔒 Security & Compliance
 
-InvestIQ takes security seriously with multiple layers of protection:
+Portiqo7 takes security seriously with multiple layers of protection:
 
 - **Authentication**: Clerk-based SSO with MFA support
 - **Authorization**: Role-Based Access Control (RBAC) for all resources
@@ -319,7 +321,7 @@ InvestIQ takes security seriously with multiple layers of protection:
 
 ### RBAC Permission Matrix
 
-InvestIQ implements a 4-tier role system with granular permissions:
+Portiqo7 implements a 4-tier role system with granular permissions:
 
 | Category         | Action                               | 👁️ Viewer | 👤 Member | 🛡️ Admin | 👑 Owner |
 | :--------------- | :----------------------------------- | :-------: | :-------: | :------: | :------: |
@@ -351,7 +353,7 @@ InvestIQ implements a 4-tier role system with granular permissions:
 
 ## 📊 API Architecture
 
-InvestIQ exposes a comprehensive REST API built with Hono framework:
+Portiqo7 exposes a comprehensive REST API built with Hono framework:
 
 ### Core Endpoints
 
@@ -449,7 +451,7 @@ All endpoints require Clerk JWT tokens via `Authorization: Bearer <token>` heade
 
 ## 🛠️ Development Philosophy
 
-InvestIQ is developed following modern best practices:
+Portiqo7 is developed following modern best practices:
 
 - **Monorepo Architecture**: Organized codebase with shared packages
 - **Type Safety**: End-to-end TypeScript for compile-time guarantees
@@ -484,7 +486,7 @@ InvestIQ is developed following modern best practices:
 
 ### Database Schema
 
-InvestIQ uses a multi-database architecture for optimal performance:
+Portiqo7 uses a multi-database architecture for optimal performance:
 
 **Cloudflare D1 (SQLite) - Primary Database**
 
@@ -581,7 +583,7 @@ We believe in building in public. Here's what's next:
 
 ## 💼 Business Model
 
-InvestIQ operates on a **SaaS subscription model** with three revenue streams:
+Portiqo7 operates on a **SaaS subscription model** with three revenue streams:
 
 1. **Direct Subscriptions**: Individual and team plans via Stripe
 2. **Enterprise Licenses**: Custom deployments with white-label options
@@ -607,7 +609,7 @@ For licensing inquiries, please contact us directly.
 
 ## 💤 About the Creator
 
-InvestIQ is being developed by a team passionate about combining **AI**, **finance**, and **clean engineering**. Our mission is to democratize sophisticated portfolio management tools previously available only to institutions.
+Portiqo7 is being developed by a team passionate about combining **AI**, **finance**, and **clean engineering**. Our mission is to democratize sophisticated portfolio management tools previously available only to institutions.
 
 **Team Expertise**:
 
@@ -623,7 +625,7 @@ InvestIQ is being developed by a team passionate about combining **AI**, **finan
 
 📧 **Email**: [takzen.app@gmail.com](mailto:takzen.app@gmail.com)
 
-## <!-- 🌐 **Website**: [investiq-ai.com](https://investiq-ai.com)   -->
+## 🌐 **Website**: [portiqo7.pl](https://portiqo7.pl)
 
 ## 🙏 Acknowledgments
 
@@ -639,4 +641,4 @@ Special thanks to the developer community for continuous inspiration.
 
 ---
 
-© 2025 InvestIQ. All rights reserved.
+© 2025 Krzysztof Pika. All rights reserved.
